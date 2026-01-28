@@ -1,0 +1,8 @@
+{
+  "name": "GridBid AI - 智能电网投标辅助系统",
+  "description": "专为电网项目设计的智能应标系统原型，集招标文件分析、技术方案自动生成、历史竞标数据可视化及AI专家咨询于一体。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
